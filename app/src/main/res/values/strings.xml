@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SMStoMail</string>
+    <string name="channel_name">Service notification</string>
+    <string name="channel_description">Notification that the service is started</string>
+    <string name="notification_title">SmsToEmail</string>
+    <string name="notification_text">Service is working</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="service_bar">Service</string>
+    <string name="filters_bar">Filters</string>
+    <string name="email_bars">Emails</string>
+    <string name="smtp_server_name">SMTP server:</string>
+    <string name="smtp_port_name">Port:</string>
+    <string name="smtp_username_name">Username:</string>
+    <string name="smtp_password_name">Password:</string>
+    <string name="smtp_default_mail">Default mail:</string>
+    <string name="smtp_auth_required">Authentication required:</string>
+    <string name="smtp_add_button_description">Add new email</string>
+    <string name="mail_host_field_error">Error. Host-name can`t be empty</string>
+    <string name="mail_port_field_error">Error. Port can`t be empty</string>
+    <string name="mail_username_field_error">Error. Username can`t be empty</string>
+    <string name="mail_create_button">Save mail</string>
+    <string name="filter_source">Telephone number:</string>
+    <string name="filters_mailUsername">Mail to send:</string>
+    <string name="filters_add_button">Add new filter</string>
+    <string name="filter_create_button">Save filter</string>
+    <string name="filter_create_no_mails">Can`t find smtp data</string>
+    <string name="filter_source_field_error">Error. Telephone number can`t be empty</string>
+    <string name="delete_swipe">Delete</string>
+</resources>
